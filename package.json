@@ -1,0 +1,17 @@
+{
+  "name": "node_fs",
+  "version": "0.7.0",
+  "description": "Node's file system module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "file",
+    "system",
+    "fs"
+  ],
+  "author": "mnap00",
+  "license": "ISC"
+}
