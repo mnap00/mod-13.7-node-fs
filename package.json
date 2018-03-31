@@ -16,6 +16,7 @@
   "author": "mnap00",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.2.1",
     "stat-mode": "^0.2.2"
   }
 }

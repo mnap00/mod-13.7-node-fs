@@ -1,1 +1,1 @@
-Tekst, który odczytamy z pliku
+This text will be saved
